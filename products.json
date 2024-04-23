@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "price": 199.0,
+    "name": "Headphone",
+    "image": "/imgs/headphone.png"
+  },
+  {
+    "id": 2,
+    "price": 45.0,
+    "name": "Mic",
+    "image": "/imgs/mic.png"
+  },
+  {
+    "id": 3,
+    "price": 50.98,
+    "name": "Mouse",
+    "image": "/imgs/Mouse.png"
+  },
+  {
+    "id": 4,
+    "price": 50.98,
+    "name": "Speaker",
+    "image": "/imgs/Speaker.png"
+  },
+  {
+    "id": 5,
+    "price": 50.98,
+    "name": "Headphone",
+    "image": "/imgs/headphone.png"
+  },
+  {
+    "id": 6,
+    "price": 50.98,
+    "name": "Mic",
+    "image": "/imgs/mic.png"
+  },
+  {
+    "id": 7,
+    "price": 50.98,
+    "name": "Mouse",
+    "image": "/imgs/Mouse.png"
+  },
+  {
+    "id": 8,
+    "price": 50.98,
+    "name": "Speaker",
+    "image": "/imgs/Speaker.png"
+  },
+  {
+    "id": 9,
+    "price": 1500.0,
+    "name": "Iphone 15 Pro Max",
+    "image": "/imgs/Ip15.png"
+  },
+  {
+    "id": 10,
+    "price": 899.99,
+    "name": "RTX 2080 ti",
+    "image": "/imgs/RTX.png"
+  },
+  {
+    "id": 11,
+    "price": 999.99,
+    "name": "4k Gaming Monitor",
+    "image": "/imgs/Monitor.png"
+  }
+]
